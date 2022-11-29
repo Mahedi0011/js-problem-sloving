@@ -1,0 +1,1 @@
+const person = {name: 'jack william' , age: 17}
